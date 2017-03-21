@@ -1,5 +1,5 @@
 {
-  "name": "futurice_earthquakes",
+  "name": "earthquakes",
   "version": "1.0.0",
   "description": "Earthquakes API & UI",
   "main": "server.js",
