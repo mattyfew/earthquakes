@@ -1,0 +1,22 @@
+ * { font-family: 'Open Sans', sans-serif; }
+
+.center { text-align: center; }
+#top-info { text-align: center; }
+
+.single-earthquake {
+    margin: 30px auto;
+    border: 1px solid black;
+    padding: 8px;
+}
+.single-earthquake h2 { text-align: center; font-size: 1.5rem; margin: 10px 10px 30px; }
+.single-earthquake:nth-of-type(even) {
+    background-color: rgb(215, 215, 215)
+}
+aside { font-size: 13px; font-style: italic;}
+
+footer { margin-bottom: 20px; font-size: 13px}
+
+@media only screen and (max-width: 64em) {
+    h1 { margin: 30px 5px}
+    .info {text-align: center;}
+}

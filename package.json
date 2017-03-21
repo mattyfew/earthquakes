@@ -1,0 +1,17 @@
+{
+  "name": "futurice_earthquakes",
+  "version": "1.0.0",
+  "description": "Earthquakes API & UI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "request": "^2.81.0"
+  }
+}
